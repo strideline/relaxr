@@ -52,9 +52,10 @@ a:visited {
 }
 
 .benefits {
-  height: 500px;
+  max-height: 500px;
   padding-left: 16%;
   padding-top: 8%;
+  padding-bottom: 8%;
   background-color: #f0efef;
 }
 
@@ -102,4 +103,53 @@ a:visited {
   color: white;
   font-weight: 600;
   font-size: 32px;
+}
+
+.sign-up {
+  padding: 30px;
+  background-color: #f9e42e;
+}
+
+.sign-up-btn {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  width: 280px;
+  font-weight: 600;
+  font-size: 28px;
+  border-radius: 5px;
+  background-color: #033048;
+  text-decoration: none;
+  padding: 12px 20px 12px 20px;
+  color: white;
+}
+
+footer {
+  padding: 60px 0 40px;
+  background-color: #121212;
+
+}
+
+footer h5 {
+  text-align: center;
+  font-weight: 800;
+  font-size: 48px;
+  color: #f9e42e;
+}
+
+footer p {
+  color: white;
+  text-align: center;
+}
+
+.twit {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+
+.fb {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
 }
