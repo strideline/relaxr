@@ -138,8 +138,9 @@ footer h5 {
 }
 
 footer p {
-  color: white;
+  color: #888888;
   text-align: center;
+  font-size: 18px;
 }
 
 .twit {
