@@ -144,12 +144,18 @@ footer p {
 
 .twit {
   text-align: center;
-  display: block;
-  margin: 0 auto;
+  padding-right: 15px;
 }
 
 .fb {
   text-align: center;
+  padding-left: 15px;
+}
+
+.socials {
   display: block;
+  text-align: center;
   margin: 0 auto;
+  padding-top: 3%;
+  padding-bottom: 3%;
 }
